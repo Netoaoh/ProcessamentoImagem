@@ -1,26 +1,26 @@
 # ProcessamentoImagem
 
 Trabalho de processamento de imagens desenvolvido em Java.
-O Objetivo desse trabalho é demonstrar a aplicação de alguns tipos de filtro em imagens.
+O objetivo desse trabalho é demonstrar a aplicação de alguns tipos de filtro em imagens.
 
-### Filtros passa alta
+#### Filtros passa alta
 
 * Laplacian
 * Sobel
 
-### Filtros passa baixa
+#### Filtros passa baixa
 
 * Glaussian Blur
 * Media
 
-### Outros filtros
+#### Outros filtros
 
 * GrayScale (escala de cinza)
 * Inversion (inversão de cores)
 * Sepia (envelhecimento)
 * Threashold (Preto e branco)
 
-### Outras features
+#### Outras features
 
 * Equalização RGB
 * Histograma
