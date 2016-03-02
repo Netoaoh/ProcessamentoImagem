@@ -18,7 +18,7 @@ O objetivo desse trabalho é demonstrar a aplicação de alguns tipos de filtro 
 * GrayScale (escala de cinza)
 * Inversion (inversão de cores)
 * Sepia (envelhecimento)
-* Threashold (Preto e branco)
+* Threshold (Preto e branco)
 
 #### Outras features
 
